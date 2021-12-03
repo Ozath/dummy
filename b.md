@@ -10,6 +10,7 @@ Windows: ``` $gradlew.bat run ```
 **Testit** ``` $gradle test```
 **Checkstyle** ``` $gradle checkstyleMain```
 
+## Tiedostorakenne
 ```
 .
 ├── a
