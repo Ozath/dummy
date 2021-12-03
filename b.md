@@ -13,7 +13,6 @@ Windows: ``` $gradlew.bat run ```
 ## Tiedostorakenne
 ```
 .
-├── a
 ├── app
 │   ├── bookcase.db
 │   ├── build.gradle
@@ -76,7 +75,7 @@ Ylläpidämme koodin luettavuutta Checkstyle:n avulla. Luokka- ja metodijaon tul
 
 
 ## Riippuvuuksia
-Riippuvuudet lisätään ```build.gradle```-tiedostoon.[Lisätietoa](https://docs.gradle.org/current/userguide/dependency_management_for_java_projects.html).
+Riippuvuudet lisätään ```build.gradle```-tiedostoon. [Lisätietoa](https://docs.gradle.org/current/userguide/dependency_management_for_java_projects.html).
 
 
 Mukana:
