@@ -10,7 +10,7 @@ Please refer to the instructions in the [README.md](https://github.com/nothros/o
 
 ## Using the application
 
-The application has three screen parts as seen below. The main display lists five columns (title, author, type, tags, courses) of all reading tip items in the database in a table view. Above this there are two comboboxes. The top combobox lists the different types of library items: books, blogs and podcasts. The user can select one and press the add button to proceed to add an item to his reading tips.
+The application has three screen parts as seen below. The main display, see figure 1, lists five columns (title, author, type, tags, courses) of all reading tip items in the database in a table view. The sixth column contains a **"show"** button that gives further detailed information of the item in that row, as seen in figure 2. Above the table view there are two comboboxes. The top combobox lists the different types of library items (books, blogs and podcasts) available with an **"Add"** button on its right. The user can select an item type and press the **"Add"** button, see figure 3, to proceed to a textfield form where they can add items to their reading tips. The lower combobox enables the user to select a column (title, author, type) and search the table view for items with a keyword that is entered into the textfield.
 
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/1.PNG" alt="Bookcase">
