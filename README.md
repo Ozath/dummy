@@ -36,7 +36,7 @@ The detailed info display lists all the data columns that pertain to a reading t
 
 &nbsp;
 
-The add and edit displays, as seen in figures 3 and 4, are similar in functionality. The user can freely add or edit items information with a few constraints. These are: 1) book items must have a title, author and valid unique ISBN number, 2) blogposts and podcasts must have a title and url specified.
+The add and edit displays, as seen in figures 4 and 5, are similar in functionality. The user can freely add or edit items information with a few constraints. These are: 1) book items must have a title, author and valid unique ISBN number, 2) blogposts and podcasts must have a title and url specified.
 
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/3.PNG" alt="Bookcase">
