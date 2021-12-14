@@ -41,9 +41,9 @@ The add and edit displays, as seen in figures 4 and 5, are similar in functional
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/3.PNG" alt="Bookcase">
 </p>
-<p align="center"> <strong>Fig.3 - add item display</strong></p>
+<p align="center"> <strong>Fig.4 - add item display</strong></p>
 
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/4.PNG" alt="Bookcase">
 </p>
-<p align="center"> <strong>Fig.4 - edit item display</strong></p>
+<p align="center"> <strong>Fig.5 - edit item display</strong></p>
