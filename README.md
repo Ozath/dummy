@@ -4,6 +4,10 @@
 
 This is a brief user manual for the Bookcase application, which was a mandatory miniproject that is part of the Software Engineering course at Helsinki University. It is intended for personal use to store reading tips (books, blogs, podcasts, etc) that relate to University courses. The user is able to add/remove, edit and search reading tips. The application is written in Java and it uses a SQlite database. The GUI is implemented using JavaFX.
 
+## Installation
+
+Please refer to the instructions in the README.md.
+
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/2.PNG)
