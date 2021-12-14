@@ -18,7 +18,7 @@ The application has three screen parts as seen below. The main screen, seen belo
 | <b>Fig.1 - main display</b>|
 
 <p align="center">
-  <img width="800" src="https://github.com/Ozath/dummy/blob/main/img/1.PNG" alt="Bookcase">
+  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/1.PNG" alt="Bookcase">
 </p>
 <p align="center"> *image_caption*</p>
 
