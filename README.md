@@ -25,6 +25,8 @@ In figure 2 the user has entered the word **space** into the search textfield. T
 </p>
 <p align="center"> <strong>Fig.2 - search bar in main display</strong></p>
 
+&nbsp;
+
 The detailed info display lists all the data columns that pertain to a reading tip item. These fields vary slightly depending on the type of item. For example, only books have a unique ISBN number field while blogposts and podcasts have a URL field which the former does not have. Below the comments field there are two buttons. The **"Remove"** button deletes the current item entry from the database and returns the user to the main display above. The item is not actually permanently removed from the database, but rather the entry is hidden from the user. The **"Edit"** button takes the user to a similar prefilled textfield form, see figure 4, as the **"Add"** button. There is also a **"Back"** button in the top right corner, which takes the user back to the main display.
 
 <p align="center">
