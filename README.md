@@ -10,7 +10,7 @@ Please refer to the instructions in the [README.md](https://github.com/nothros/o
 
 ## Using the application
 
-The application has three screen parts as seen below. The main screen lists all reading tip items in the database in a table view. Above this there are two comboboxes. The top combobox lists the different types of library items: books, blogs and podcasts. The user can select one and press the add button to proceed to add an item to his reading tips.
+The application has three screen parts as seen below. The main screen, seen below, lists all reading tip items in the database in a table view. Above this there are two comboboxes. The top combobox lists the different types of library items: books, blogs and podcasts. The user can select one and press the add button to proceed to add an item to his reading tips.
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
