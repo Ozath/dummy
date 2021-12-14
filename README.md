@@ -17,6 +17,21 @@ The application has three screen parts as seen below. The main display, see figu
 </p>
 <p align="center"> <strong>Fig.1 - main display</strong></p>
 
+<p align="center">
+  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/2.PNG" alt="Bookcase">
+</p>
+<p align="center"> <strong>Fig.2 - detailed info display</strong></p>
+
+<p align="center">
+  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/3.PNG" alt="Bookcase">
+</p>
+<p align="center"> <strong>Fig.3 - add item display</strong></p>
+
+<p align="center">
+  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/4.PNG" alt="Bookcase">
+</p>
+<p align="center"> <strong>Fig.4 - edit item display</strong></p>
+
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
 
