@@ -10,6 +10,8 @@ Please refer to the instructions in the [README.md](https://github.com/nothros/o
 
 ## Using the application
 
+The application has three screen parts as seen below. The main screen lists all reading tip items in the database in a table view. Above this there is a combobox that has all different types of library items listed. The user can select an item and press the add button to proceed to the 
+
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/2.PNG)
