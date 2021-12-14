@@ -17,9 +17,11 @@ The application has four screen parts as seen below. The main display, see figur
 </p>
 <p align="center"> <strong>Fig.1 - main display</strong></p>
 
-Figure 2 below depicts the situation that the user has entered the word **space** into the search textfield. This displays all reading tip items with the 
+&nbsp;
+
+In figure 2 the user has entered the word **space** into the search textfield. This displays all reading tip items with a matching title. 
 <p align="center">
-  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/5.PNG" alt="Bookcase">
+  <img width="400" src="https://github.com/Ozath/dummy/blob/main/img/5.PNG" alt="Bookcase">
 </p>
 <p align="center"> <strong>Fig.2 - main display</strong></p>
 
