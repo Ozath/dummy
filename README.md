@@ -1,6 +1,6 @@
 # User manual
 
-![1.png](/img/1.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
 ![1.png](/img/2.png)
 
