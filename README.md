@@ -52,7 +52,9 @@ The add and edit displays, as seen in figures 4 and 5, are similar in functional
 
 &nbsp;
 
+The application informs the user when any constraints are being broken. In figure 6 below, the user tried to enter a duplicate ISBN value that is already assigned to the book titled **Prime Numbers** from figure 1.
+
 <p align="center">
-  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/6.PNG" alt="Bookcase">
+  <img width="400" src="https://github.com/Ozath/dummy/blob/main/img/6.PNG" alt="Bookcase">
 </p>
-<p align="center"> <strong>Fig.6 - edit item display</strong></p>
+<p align="center"> <strong>Fig.6 - a non-unique ISBN value given</strong></p>
