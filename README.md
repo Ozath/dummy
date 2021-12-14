@@ -2,18 +2,18 @@
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
-![1.png](/img/2.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/2.PNG)
 
-![1.png](/img/3.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/3.PNG)
 
-![1.png](/img/4.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/4.PNG)
 
-![1.png](/img/5.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/5.PNG)
 
-![1.png](/img/6.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/6.PNG)
 
-![1.png](/img/7.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/7.PNG)
 
-![1.png](/img/8.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/8.PNG)
 
-![1.png](/img/9.png)
+![1.png](https://github.com/Ozath/dummy/blob/main/img/9.PNG)
