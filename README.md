@@ -14,7 +14,7 @@ The application has three screen parts as seen below. The main screen, seen belo
 
 
 <figure>
-<img src="https://github.com/Ozath/dummy/blob/main/img/1.PNG" alt="Trulli" style="width:100%">
+<img src="https://github.com/Ozath/dummy/blob/main/img/1.PNG" alt="Trulli" style="width:50%">
 <figcaption align = "center"><b>Fig.1 - main screen</b></figcaption>
 </figure>
 
