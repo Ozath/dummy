@@ -32,7 +32,9 @@ The detailed info display lists all the data columns that pertain to a reading t
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/2.PNG" alt="Bookcase">
 </p>
-<p align="center"> <strong>Fig.2 - detailed info display</strong></p>
+<p align="center"> <strong>Fig.3 - detailed info display</strong></p>
+
+&nbsp;
 
 The add and edit displays, as seen in figures 3 and 4, are similar in functionality. The user can freely add or edit items information with a few constraints. These are: 1) book items must have a title, author and valid unique ISBN number, 2) blogposts and podcasts must have a title and url specified.
 
