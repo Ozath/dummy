@@ -8,6 +8,8 @@ This is a brief user manual for the Bookcase application, which was a mandatory 
 
 Please refer to the instructions in the [README.md](https://github.com/nothros/ohtu-miniprojekti2021/blob/main/README.md).
 
+## Using the application
+
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/2.PNG)
