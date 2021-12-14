@@ -43,7 +43,16 @@ The add and edit displays, as seen in figures 4 and 5, are similar in functional
 </p>
 <p align="center"> <strong>Fig.4 - add item display</strong></p>
 
+&nbsp;
+
 <p align="center">
   <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/4.PNG" alt="Bookcase">
 </p>
 <p align="center"> <strong>Fig.5 - edit item display</strong></p>
+
+&nbsp;
+
+<p align="center">
+  <img width="600" src="https://github.com/Ozath/dummy/blob/main/img/6.PNG" alt="Bookcase">
+</p>
+<p align="center"> <strong>Fig.6 - edit item display</strong></p>
