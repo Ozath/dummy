@@ -15,7 +15,7 @@ The application has three screen parts as seen below. The main screen, seen belo
 
 | ![space-1.jpg](https://github.com/Ozath/dummy/blob/main/img/1.PNG) |
 |:--:|
-| <b>Image Credits - Fig.1 - main display</b>|
+| <b>Fig.1 - main display</b>|
 
 ![1.png](https://github.com/Ozath/dummy/blob/main/img/1.PNG)
 
